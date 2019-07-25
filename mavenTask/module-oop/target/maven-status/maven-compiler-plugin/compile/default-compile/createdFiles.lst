@@ -1,0 +1,4 @@
+com\epam\maven\PropertyReader.class
+com\epam\maven\Connection.class
+com\epam\maven\Parser.class
+com\epam\maven\Main.class
